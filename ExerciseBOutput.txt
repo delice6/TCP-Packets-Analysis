@@ -1,0 +1,180 @@
+> 150.100.12.5 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 183, #Dedicated Ack: 83, #Bad Ack: 0
+
+> 150.100.12.131 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 192, #Dedicated Ack: 91, #Bad Ack: 0
+
+> 150.100.12.10 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 179, #Dedicated Ack: 78, #Bad Ack: 0
+
+> 150.100.15.9 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 184, #Dedicated Ack: 84, #Bad Ack: 0
+
+> 150.100.15.4 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 178, #Dedicated Ack: 77, #Bad Ack: 0
+
+> 150.100.12.12 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 188, #Dedicated Ack: 88, #Bad Ack: 0
+
+> 150.100.15.11 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 184, #Dedicated Ack: 83, #Bad Ack: 0
+
+> 150.100.15.5 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 186, #Dedicated Ack: 85, #Bad Ack: 0
+
+> 150.100.12.136 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 187, #Dedicated Ack: 86, #Bad Ack: 0
+
+> 150.100.12.132 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 188, #Dedicated Ack: 87, #Bad Ack: 0
+
+> 150.100.12.138 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 188, #Dedicated Ack: 87, #Bad Ack: 0
+
+> 150.100.12.130 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 181, #Dedicated Ack: 81, #Bad Ack: 0
+
+> 150.100.12.139 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 178, #Dedicated Ack: 77, #Bad Ack: 0
+
+> 150.100.12.135 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 109, #Redn Ack: 96, #Dedicated Ack: 104, #Bad Ack: 7 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 185, #Dedicated Ack: 84, #Bad Ack: 0
+
+> 150.100.15.10 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 182, #Dedicated Ack: 81, #Bad Ack: 0
+
+> 150.100.12.3 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 184, #Dedicated Ack: 83, #Bad Ack: 0
+
+> 150.100.15.3 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 185, #Dedicated Ack: 84, #Bad Ack: 0
+
+> 150.100.12.134 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 181, #Dedicated Ack: 81, #Bad Ack: 0
+
+> 150.100.12.133 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 181, #Dedicated Ack: 81, #Bad Ack: 0
+
+> 150.100.12.7 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 187, #Dedicated Ack: 86, #Bad Ack: 0
+
+> 150.100.15.2 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 185, #Dedicated Ack: 85, #Bad Ack: 0
+
+> 150.100.12.137 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 185, #Dedicated Ack: 84, #Bad Ack: 0
+
+> 150.100.12.8 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 184, #Dedicated Ack: 83, #Bad Ack: 0
+
+> 150.100.12.4 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 185, #Dedicated Ack: 84, #Bad Ack: 0
+
+> 150.100.12.9 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 190, #Dedicated Ack: 89, #Bad Ack: 0
+
+> 150.100.15.7 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 104, #Redn Ack: 101, #Dedicated Ack: 104, #Bad Ack: 2 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 181, #Dedicated Ack: 80, #Bad Ack: 0
+
+> 150.100.15.8 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 181, #Dedicated Ack: 81, #Bad Ack: 0
+
+> 150.100.12.11 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 105, #Redn Ack: 100, #Dedicated Ack: 104, #Bad Ack: 3 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 183, #Dedicated Ack: 82, #Bad Ack: 0
+
+> 150.100.12.6 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 102, #Dedicated Ack: 104, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 201, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 178, #Dedicated Ack: 77, #Bad Ack: 0
+
+> 150.100.15.6 <
+ Client to Server Traffic: 
+  #Data Pckt: 100, #Ctrl Pckt: 2, #New Ack: 103, #Redn Ack: 101, #Dedicated Ack: 103, #Bad Ack: 1 
+ Server to Client Traffic: 
+  #Data Pckt: 200, #Ctrl Pckt: 2, #New Ack: 102, #Redn Ack: 179, #Dedicated Ack: 79, #Bad Ack: 0
+
