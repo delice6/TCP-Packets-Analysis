@@ -257,7 +257,7 @@ def main():
 			indx += 1
 		print(outputString)	
 		
-		text_file = open("ExerciseBOutput.txt", "w")
+		text_file = open("ProgramOutput.txt", "w")
 		text_file.write(outputString)
 		text_file.close()
 		
